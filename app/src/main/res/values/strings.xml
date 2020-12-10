@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DAM_semana07_CL</string>
+    <string name="title_activity_notas">MainActivity</string>
+    <string name="title_home">Notes</string>
+    <string name="title_dashboard">Favoritos</string>
+    <string name="title_notifications">MiPerfil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
